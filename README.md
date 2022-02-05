@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lamyea
+- 👋 Hi, I’m @Nowrin
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
